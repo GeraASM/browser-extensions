@@ -94,6 +94,6 @@ body {
   }
 
   .remove {
-    @apply text-sm px-2 py-1 cursor-pointer bg-neutral-0 rounded-2xl border border-neutral-300 px-2 font-semibold text-neutral-600 dark:text-neutral-300 hover:bg-red-400 hover:text- hover:text-neutral-800 hover:text-white hover:border-transparent focus:outline-0 focus:ring-red-400 focus:ring-2 focus:border-transparent focus:bg-neutral-100;
+    @apply text-sm px-2 py-1 cursor-pointer bg-neutral-0 rounded-2xl border border-neutral-300 px-2 font-semibold text-neutral-600 dark:text-neutral-300 hover:bg-red-400 hover:text-neutral-800 hover:text-white hover:border-transparent focus:outline-0 focus:ring-red-400 focus:ring-2 focus:border-transparent focus:bg-neutral-100;
   }
 }
